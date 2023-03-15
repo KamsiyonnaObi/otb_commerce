@@ -88,7 +88,10 @@ const onAdd = (product, quantity) => {
             decQty,
             onAdd,
             toggleCartItemQuantity,
-            onRemove
+            onRemove,
+            setCartItems,
+            setTotalPrice,
+            setTotalQuantities
         }}>
             { children }
         </Context.Provider>
