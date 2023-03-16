@@ -20,8 +20,8 @@ saleTime, smallText, midText, desc, product, buttonText, image} }) => {
           <h1>{midText}</h1>
           <p> <br/></p>
           <p>{desc}</p>
-          <Link href={`/product/${product}`}>
-            <button type="button">{buttonText}</button>
+          <Link href='https://open.spotify.com/show/27kPCALOe5itYMM00INHCj?si=41399190fb2741ea'>
+            <a target="_blank"><button type="button">{buttonText}</button></a>
           </Link>
         </div>
         <img 
