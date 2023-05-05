@@ -1,3 +1,5 @@
+![OTB Webstore Demo](https://user-images.githubusercontent.com/86691010/236480989-8b51001a-df6d-43fa-80ae-120d81e3b024.gif)
+
 # Hello World!
 
 #todayICompleted 🎉 An e-commerce website for my podcast. I built it using React, one of the most popular and powerful JavaScript libraries for building user interfaces. And to manage the content, I used Sanity, a content management system that allows us to easily manage and update our product information and other content. I suggest you check them out. https://www.sanity.io/
@@ -24,4 +26,4 @@ I actually don't know... what cool projects have you done?
 
 #ReactJs #fullstackdeveloper #nodejs #Scss #tech #stripe #sanity 
 
-![OTB Webstore Demo](https://user-images.githubusercontent.com/86691010/236480989-8b51001a-df6d-43fa-80ae-120d81e3b024.gif)
+
